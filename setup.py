@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 
 setup(
-    name="Github-Actions",
+    name="Ernesto_pycicd",
     version="1.0.2",
     author="Ernesto Ruiz Hortelano",
     author_email="coperinfofp@gmail.com",
